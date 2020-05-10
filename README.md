@@ -5,7 +5,7 @@
 ![alt txt](https://github.com/pradnyalgandhi/Wine-Prediction-ML/tree/master/data/Images/graph1.jpg "Graph 1")
 
 
-![alt txt](https://github.com/pradnyalgandhi/Wine-Prediction-ML/tree/master/data/Images/graph2.jpg? "Graph 2")
+![alt txt](https://github.com/pradnyalgandhi/Wine-Prediction-ML/tree/master/data/Images/graph2.jpg "Graph 2")
 
 ## Model Used :
 * RandomForestClassifier
