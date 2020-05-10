@@ -2,10 +2,10 @@
 
 > This project involves extracting data from the training dateset and fitting that data on the RandomForestClassifier Model to make predictions.
 
-![GitHub](https://github.com/pradnyalgandhi/Wine-Prediction-ML/tree/master/data/Images/graph1.png?raw=true)
+![GitHub](data/Images/graph1.png?raw=true)
 
 
-![GitHub](https://github.com/pradnyalgandhi/Wine-Prediction-ML/tree/master/data/Images/graph2.png?raw=true)
+![GitHub](data/Images/graph2.png?raw=true)
 
 ## Model Used :
 * RandomForestClassifier
